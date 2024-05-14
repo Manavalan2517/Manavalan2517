@@ -68,12 +68,15 @@
 
 ###
 
-
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Manavalan2517&cc=000&tc=fff&ic=fff&bc=000" height="150" >
   <img src="https://streak-stats.demolab.com?user=Manavalan2517&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manavalan2517&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+[![Manavalan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manavalan2517&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
 ###
 
