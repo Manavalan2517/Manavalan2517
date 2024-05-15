@@ -85,3 +85,8 @@
 <img src="https://raw.githubusercontent.com/Manavalan2517/Manavalan2517/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
