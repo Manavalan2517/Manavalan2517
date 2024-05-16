@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">🌍 I'm based in India<br>🧠 I'm learning DSA, Data Science and Web development.</h4>
+<h4 align="center">🌍 I'm based in India.<br>🧠 I'm learning DSA, Data Science and Web development.</h4>
 
 ###
 
