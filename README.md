@@ -48,9 +48,6 @@
   <a href="https://stackoverflow.com/users/17120050" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://wa.link/nefslm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
   <a href="https://discordapp.com/users/1014603576330436778" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
